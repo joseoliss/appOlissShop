@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CX04gLVAhuq14CdF/k0K2DX54aDyhIFeaYbPzIw09mI=",
+  "Source": "appOlissShop.API",
+  "BasePath": "_content/appOlissShop.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

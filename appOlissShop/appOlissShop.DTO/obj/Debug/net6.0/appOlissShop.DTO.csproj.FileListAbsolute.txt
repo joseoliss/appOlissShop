@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\EcommerceBlazor\appJOLIShop\appOlissShop.DTO\bin\Debug\net6.0\appOlissShop.DTO.deps.json
+C:\Users\Usuario\Desktop\EcommerceBlazor\appJOLIShop\appOlissShop.DTO\bin\Debug\net6.0\appOlissShop.DTO.dll
+C:\Users\Usuario\Desktop\EcommerceBlazor\appJOLIShop\appOlissShop.DTO\bin\Debug\net6.0\appOlissShop.DTO.pdb
+C:\Users\Usuario\Desktop\EcommerceBlazor\appJOLIShop\appOlissShop.DTO\obj\Debug\net6.0\appOlissShop.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\EcommerceBlazor\appJOLIShop\appOlissShop.DTO\obj\Debug\net6.0\appOlissShop.DTO.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\EcommerceBlazor\appJOLIShop\appOlissShop.DTO\obj\Debug\net6.0\appOlissShop.DTO.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\EcommerceBlazor\appJOLIShop\appOlissShop.DTO\obj\Debug\net6.0\appOlissShop.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EcommerceBlazor\appJOLIShop\appOlissShop.DTO\obj\Debug\net6.0\appOlissShop.DTO.dll
+C:\Users\Usuario\Desktop\EcommerceBlazor\appJOLIShop\appOlissShop.DTO\obj\Debug\net6.0\refint\appOlissShop.DTO.dll
+C:\Users\Usuario\Desktop\EcommerceBlazor\appJOLIShop\appOlissShop.DTO\obj\Debug\net6.0\appOlissShop.DTO.pdb
+C:\Users\Usuario\Desktop\EcommerceBlazor\appJOLIShop\appOlissShop.DTO\obj\Debug\net6.0\ref\appOlissShop.DTO.dll
