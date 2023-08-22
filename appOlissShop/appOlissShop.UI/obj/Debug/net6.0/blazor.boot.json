@@ -196,15 +196,15 @@
       "mscorlib.dll": "sha256-ZQiPq7CHB7vwsbgiGeI63xqAYmfnZVwKnCDxwIIfh68=",
       "netstandard.dll": "sha256-OUZMjYvE6WNC75Ypitp3ukl0+FlDbSW+OYEIsU7XlgQ=",
       "System.Private.CoreLib.dll": "sha256-uJANsJB4HA9iyaKf1ryCSbtypfL2uQZWxXKIn0Fz5+c=",
-      "appOlissShop.DTO.dll": "sha256-0B9zyN2l6l5bTMzHjEovTx\/VgYWDabu2a27+TFy+H\/g=",
-      "appOlissShop.UI.dll": "sha256-yEPhpi25Wt1j2IdEYXvV1asf6ZNR0sic1mBaVj3wHQc="
+      "appOlissShop.DTO.dll": "sha256-ewgSIKfWu6K9WbzVBlOM\/e6fY4xI+LV8F3gNi8hf17g=",
+      "appOlissShop.UI.dll": "sha256-mEejKjjwWPO14p3kb6T8s+vP7fIirKQ83Ge\/EJ8DcHo="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "appOlissShop.DTO.pdb": "sha256-Mz5oydOjT6qHzYJTkxudWnho7sJmuXEThGXrKGr5i2g=",
-      "appOlissShop.UI.pdb": "sha256-EWtYBtXYfopliAQpjEtFB51Pzv6Q0eywme9MV+X\/Ay4="
+      "appOlissShop.DTO.pdb": "sha256-QwXmgDiuWs0Shqawc7jc\/vUJ6ZOz0hgYym66tPYJ7P4=",
+      "appOlissShop.UI.pdb": "sha256-9hsmocC8elYJ2dxJUeY6gOlu80GEMMCesG1JsqPQT0U="
     },
     "runtime": {
       "dotnet.6.0.21.uaj4msznwc.js": "sha256-0OV6gibFzyVtG7NXEj8a6vG3u8Cbzv4l9kkEathZjQ8=",

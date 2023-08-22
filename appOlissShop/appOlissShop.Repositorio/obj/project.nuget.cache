@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HS/Q6oxIRywMUAbk9UNzs6UsB0k3j2nsehrO6lkxdTQKhsj15DLQ6ZlZg1lPU4ZMGywTzNOleVIj+pLpkrRDTA==",
+  "dgSpecHash": "+mc+JAaFhjq44LR7JhWSgbJqQEVlxv1Ejq0PRRmywQGROQmA9ff4Yynzfo4cm+vfSJClZ34Rx8+vf3Yskfz6uA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\EcommerceBlazor\\appJOLIShop\\appOlissShop.Repositorio\\appOlissShop.Repositorio.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\Cursos\\EcommerceBlazor\\appOlissShop\\appOlissShop.Repositorio\\appOlissShop.Repositorio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

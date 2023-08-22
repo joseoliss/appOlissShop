@@ -9,41 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = appOlissShop.UI
 build_property.RootNamespace = appOlissShop.UI
-build_property.ProjectDir = C:\Users\Usuario\Desktop\EcommerceBlazor\appJOLIShop\appOlissShop.UI\
+build_property.ProjectDir = C:\Users\Usuario\Documents\Cursos\EcommerceBlazor\appOlissShop\appOlissShop.UI\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Usuario\Desktop\EcommerceBlazor\appJOLIShop\appOlissShop.UI
+build_property.MSBuildProjectDirectory = C:\Users\Usuario\Documents\Cursos\EcommerceBlazor\appOlissShop\appOlissShop.UI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Usuario/Desktop/EcommerceBlazor/appJOLIShop/appOlissShop.UI/App.razor]
+[C:/Users/Usuario/Documents/Cursos/EcommerceBlazor/appOlissShop/appOlissShop.UI/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/EcommerceBlazor/appJOLIShop/appOlissShop.UI/Pages/Counter.razor]
+[C:/Users/Usuario/Documents/Cursos/EcommerceBlazor/appOlissShop/appOlissShop.UI/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/EcommerceBlazor/appJOLIShop/appOlissShop.UI/Pages/FetchData.razor]
+[C:/Users/Usuario/Documents/Cursos/EcommerceBlazor/appOlissShop/appOlissShop.UI/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/EcommerceBlazor/appJOLIShop/appOlissShop.UI/Pages/Index.razor]
+[C:/Users/Usuario/Documents/Cursos/EcommerceBlazor/appOlissShop/appOlissShop.UI/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/EcommerceBlazor/appJOLIShop/appOlissShop.UI/Shared/SurveyPrompt.razor]
+[C:/Users/Usuario/Documents/Cursos/EcommerceBlazor/appOlissShop/appOlissShop.UI/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/EcommerceBlazor/appJOLIShop/appOlissShop.UI/_Imports.razor]
+[C:/Users/Usuario/Documents/Cursos/EcommerceBlazor/appOlissShop/appOlissShop.UI/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/EcommerceBlazor/appJOLIShop/appOlissShop.UI/Shared/MainLayout.razor]
+[C:/Users/Usuario/Documents/Cursos/EcommerceBlazor/appOlissShop/appOlissShop.UI/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-svvu968ig8
 
-[C:/Users/Usuario/Desktop/EcommerceBlazor/appJOLIShop/appOlissShop.UI/Shared/NavMenu.razor]
+[C:/Users/Usuario/Documents/Cursos/EcommerceBlazor/appOlissShop/appOlissShop.UI/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-3agy4g5581

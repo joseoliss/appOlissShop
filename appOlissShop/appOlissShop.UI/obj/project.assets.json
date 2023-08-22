@@ -1794,11 +1794,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\EcommerceBlazor\\appJOLIShop\\appOlissShop.UI\\appOlissShop.UI.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Cursos\\EcommerceBlazor\\appOlissShop\\appOlissShop.UI\\appOlissShop.UI.csproj",
       "projectName": "appOlissShop.UI",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\EcommerceBlazor\\appJOLIShop\\appOlissShop.UI\\appOlissShop.UI.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\Cursos\\EcommerceBlazor\\appOlissShop\\appOlissShop.UI\\appOlissShop.UI.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\EcommerceBlazor\\appJOLIShop\\appOlissShop.UI\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\Cursos\\EcommerceBlazor\\appOlissShop\\appOlissShop.UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1819,8 +1819,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Usuario\\Desktop\\EcommerceBlazor\\appJOLIShop\\appOlissShop.DTO\\appOlissShop.DTO.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Desktop\\EcommerceBlazor\\appJOLIShop\\appOlissShop.DTO\\appOlissShop.DTO.csproj"
+            "C:\\Users\\Usuario\\Documents\\Cursos\\EcommerceBlazor\\appOlissShop\\appOlissShop.DTO\\appOlissShop.DTO.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Documents\\Cursos\\EcommerceBlazor\\appOlissShop\\appOlissShop.DTO\\appOlissShop.DTO.csproj"
             }
           }
         }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace appOlissShop.DTO
 {
-    public class ResponseDTO<T> where T : class
+    public class ResponseDTO<T> 
     {
         public T? Resultado { get; set; }
         public bool EsCorrecto { get; set; }
