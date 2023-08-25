@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "hMXqANGKNHpv+TglBe6U+4XXysmtuPI872oGZgjhHafLvSqK2uaUZMVpGJHwMIGuFYbM3FL5JxFWBddt/93mdQ==",
+  "dgSpecHash": "AlsAxArpwuHo0lW/2IhvPdccxnX7+5weNKdQ2nDTpEloTpKHdYvK+8OmXdHsKEzya22ihpLQOTjU72JPOIoTTg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Usuario\\Documents\\Cursos\\EcommerceBlazor\\appOlissShop\\appOlissShop.UI\\appOlissShop.UI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\blazored.localstorage\\4.4.0\\blazored.localstorage.4.4.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\blazored.toast\\4.1.0\\blazored.toast.4.1.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.20\\microsoft.aspnetcore.authorization.6.0.20.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.20\\microsoft.aspnetcore.components.6.0.20.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.20\\microsoft.aspnetcore.components.analyzers.6.0.20.nupkg.sha512",
